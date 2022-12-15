@@ -491,3 +491,7 @@ fill: var(--primary-brand);
 .item:hover {
         box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08);
 }
+
+.social-team {
+    fill:#F4F4FD;
+}
